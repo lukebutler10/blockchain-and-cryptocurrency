@@ -1,6 +1,7 @@
-**Activate the virtual environment**
+**Create and activate the virtual environment**
 
 ```
+python -m venv blockchain-env
 
 source blockchain-env/bin/activate
 ```
